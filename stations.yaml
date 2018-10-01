@@ -1,0 +1,16 @@
+- station:
+    station_id: 1
+    station_name: Alna
+    longitude: 10.79164090725788
+    latitude: 59.904612
+    epsg: 4326
+    buffer: 15000   #in meters
+
+- station:
+    station_id: 2
+    station_name: Storelva_ved_Nes_Verk
+    longitude: 8.85455478590993
+    latitude: 58.632607
+    epsg: 4326
+    buffer: 30000
+
