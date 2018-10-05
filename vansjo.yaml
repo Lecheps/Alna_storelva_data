@@ -1,0 +1,17 @@
+- station:
+    station_id: 1
+    station_name: Vansjo
+    longitude: 10.7417
+    latitude: 59.4392
+    epsg: 4326
+    buffer: 45000   #in meters
+
+
+- station:
+    station_id: 2
+    station_name: Vansjo-alt
+    longitude: 10.77698
+    latitude: 59.41539
+    epsg: 4326
+    buffer: 45000   #in meters
+
