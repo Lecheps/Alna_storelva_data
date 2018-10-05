@@ -18,7 +18,7 @@
 
 - station:
     station_id: 3
-    station_name: Vansjo-3
+    station_name: Vansjo-sink
     longitude: 10.72994
     latitude: 59.38973
     epsg: 4326
